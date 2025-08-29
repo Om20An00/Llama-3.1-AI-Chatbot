@@ -3,6 +3,14 @@
 An interactive **AI Chatbot** powered by **Llama 3.1 (8B)** using the [Groq API](https://groq.com) and **Streamlit** for the web UI.  
 This project lets you chat with Llama 3.1 directly from your browser in a clean and simple interface.
 
+Preview 1 :
+
+![Chatbot Preview](https://github.com/Om20An00/Llama-3.1-AI-Chatbot/blob/main/1.jpg?raw=true)
+
+Preview 2 :
+
+![Chatbot Preview 2](https://github.com/Om20An00/Llama-3.1-AI-Chatbot/blob/main/2.jpg?raw=true)
+
 ---
 ## 🚀 Features
 - 🤖 Chat with **Llama 3.1 (8B)** in real-time
